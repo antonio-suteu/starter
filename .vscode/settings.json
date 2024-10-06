@@ -1,0 +1,11 @@
+{
+    "terminal.integrated.profiles.windows": {
+        "Node.js": {
+          "path": "C:\\Program Files\\nodejs\\node.exe",
+          "args": [] // Add startup arguments as needed.
+        }
+      },
+    
+    // Make Node.js the default shell (if the property already exists, update its value).
+    "terminal.integrated.defaultProfile.windows": "Node.js"
+}
